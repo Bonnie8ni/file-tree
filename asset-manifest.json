@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/file-tree/static/css/main.e254bb2e.chunk.css",
+    "main.js": "/file-tree/static/js/main.5e9e7156.chunk.js",
+    "main.js.map": "/file-tree/static/js/main.5e9e7156.chunk.js.map",
+    "runtime~main.js": "/file-tree/static/js/runtime~main.60347414.js",
+    "runtime~main.js.map": "/file-tree/static/js/runtime~main.60347414.js.map",
+    "static/css/2.d4087581.chunk.css": "/file-tree/static/css/2.d4087581.chunk.css",
+    "static/js/2.0e6c21dd.chunk.js": "/file-tree/static/js/2.0e6c21dd.chunk.js",
+    "static/js/2.0e6c21dd.chunk.js.map": "/file-tree/static/js/2.0e6c21dd.chunk.js.map",
+    "index.html": "/file-tree/index.html",
+    "precache-manifest.09e6f9a364c937069ea075c2b2744656.js": "/file-tree/precache-manifest.09e6f9a364c937069ea075c2b2744656.js",
+    "service-worker.js": "/file-tree/service-worker.js",
+    "static/css/2.d4087581.chunk.css.map": "/file-tree/static/css/2.d4087581.chunk.css.map",
+    "static/css/main.e254bb2e.chunk.css.map": "/file-tree/static/css/main.e254bb2e.chunk.css.map",
+    "static/media/index.css": "/file-tree/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
