@@ -1,0 +1,41 @@
+* {
+    line-height: 1.5;
+    font-family: 'Roboto';
+}
+
+h2 {
+    margin: 50px 0 20px 0;
+    font-weight: 300;
+}
+
+.container {
+    padding: 0 40px;
+    font-size: 20px;
+}
+
+.folder {
+    color: green;
+    cursor: grab;
+}
+
+.main {
+    display: flex;
+    padding: 10px 0;
+
+    .icon, svg, i {
+        width: 28px;
+        height: 28px;
+        line-height: 1;
+    }
+    .name {
+        margin: 0 0 0 10px;
+    }
+
+    &.nofiles {
+        padding: 10px 0;
+    }
+}
+
+.list {
+    margin: 0;
+}
