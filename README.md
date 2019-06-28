@@ -6,6 +6,6 @@ https://bonnie8ni.github.io/file-tree/
 
 點擊展開資料夾，FileNode render FileNode
 
-## 此專案使用 creat-reat-app
+## 此專案使用 create-react-app
 
 https://facebook.github.io/create-react-app/docs/getting-started
